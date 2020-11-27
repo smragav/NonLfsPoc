@@ -1,0 +1,40 @@
+{
+	"machineNames": {
+		"pilotLaptops": [{
+                "name": "LT427177",
+                "owner": "Konstantin Purtov"
+			},
+			{
+				"name": "LT427342",
+                "owner": "Pepijn Bakker"
+			},
+			{
+				"name": "LT427407",
+                "owner": "Joost Klessens"
+            },
+            {
+				"name": "LT427469",
+                "owner": "Wei Song"
+            },
+            {
+				"name": "LT427505",
+                "owner": "Konstantin Purtov"
+            },
+            {
+				"name": "LT427177",
+                "owner": "Martijn Osinga "
+            },
+            {
+				"name": "LT427512",
+                "owner": "Erik Vermij"
+            },
+            {
+				"name": "LT427514",
+                "owner": "Roman Shramko"
+			}
+		],
+		"buildAgents": [{
+			"name": "LT7658765"
+		}]
+	}
+}
